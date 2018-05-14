@@ -1,0 +1,6 @@
+sphinx
+doctr
+travis-encrypt
+kaybee_bulma
+kaybee
+livereload
